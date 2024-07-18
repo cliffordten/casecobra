@@ -32,6 +32,7 @@ and copy the .env.example variables into a separate .env file, fill them out & a
 
 
 ## Acknowledgements
+- [Youtube](https://www.youtube.com/watch?v=SG82Aqcaaa0)
 
 - [Kinde](https://link.joshtriedcoding.com/kinde) for making this project possible
 
